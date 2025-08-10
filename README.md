@@ -16,12 +16,12 @@
 
 ---
 
-## 📂 Portfolio Status  
+## Portfolio Status  
 ```js
 const portfolio = "coming soon...";
 const status = ":loading";
 console.log(`${portfolio} ${status}`);
-// Stay tuned 🚀
+// Stay tuned!
 ```
 
 ---
