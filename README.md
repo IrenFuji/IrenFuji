@@ -4,16 +4,80 @@
  
 ---
 
-## Tech Stack  
+## Skills & Tools  
 
-**Languages:** ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript) ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python) ![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3) ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=database)  
+<div align="center">
 
-**Frameworks & Libraries:** ![React](https://img.shields.io/badge/React-20232A?logo=react) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs) ![Express.js](https://img.shields.io/badge/Express.js-black?logo=express) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css)  
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
+      <br>React
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" />
+      <br>Next.js
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="48" height="48" alt="Vue" />
+      <br>Vue
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="48" height="48" alt="Angular" />
+      <br>Angular
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" alt="Express" />
+      <br>Express
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48" height="48" alt="PHP" />
+      <br>PHP
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="48" height="48" alt="Ruby" />
+      <br>Ruby
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
+      <br>MySQL
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="48" height="48" alt="SQLite" />
+      <br>SQLite
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="48" height="48" alt="Supabase" />
+      <br>Supabase
+    </td>
+  </tr>
+</table>
 
-**Tools:** ![Git](https://img.shields.io/badge/Git-F05033?logo=git) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github) ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman) ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma)  
-
-**Platforms & Databases:** ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?logo=mongodb) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker) ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?logo=openai) ![REST API](https://img.shields.io/badge/REST-02569B?logo=rest)  
-
+</div>
 ---
 
 ## Portfolio Status  
