@@ -51,10 +51,11 @@
       <img src="https://cdn.simpleicons.org/splunk" width="48" height="48" alt="Splunk" />
       <br>Splunk
     </td>
- <td class="flex flex-col items-center p-4 bg-white rounded-2xl shadow-md hover:shadow-xl transform hover:-translate-y-1 transition duration-300">
-  <img src="https://cdn.simpleicons.org/amazonwebservices" class="w-12 h-12" alt="AWS">
-  <p class="mt-3 text-sm font-medium">AWS</p>
+<td align="center" width="115">
+  <img src="https://cdn.simpleicons.org/amazonwebservices" width="48" height="48" alt="AWS" />
+  <br>AWS
 </td>
+
 
 
 
@@ -166,7 +167,6 @@
       <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji/assets/svg/1f9e0.svg" width="48" height="48" alt="Problem Solving" />
       <br>Problem Solving
     </td>
-    <td></td><td></td><td></td><td></td>
   </tr>
 </table>
 
