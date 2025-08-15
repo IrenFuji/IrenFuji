@@ -51,10 +51,11 @@
       <img src="https://cdn.simpleicons.org/splunk" width="48" height="48" alt="Splunk" />
       <br>Splunk
     </td>
-  <div class="skill-card">
-  <img src="https://cdn.simpleicons.org/amazonwebservices" alt="AWS">
-  <p>AWS</p>
-</div>
+ <td class="flex flex-col items-center p-4 bg-white rounded-2xl shadow-md hover:shadow-xl transform hover:-translate-y-1 transition duration-300">
+  <img src="https://cdn.simpleicons.org/amazonwebservices" class="w-12 h-12" alt="AWS">
+  <p class="mt-3 text-sm font-medium">AWS</p>
+</td>
+
 
 
   </tr>
