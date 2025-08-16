@@ -183,6 +183,6 @@ console.log(`${portfolio} ${status}`);
 
 ## Sharing & Learning  
 
-- 📝 Writing about my learning journey, experiments, and tutorials on [**Medium**](https://medium.com/@irenfuji)  
-- 💬 Sharing quick tips, resources, and thoughts on [**Bluesky**](https://bsky.app/profile/ai-iren-fuji.bsky.social)  
+- Writing about my learning journey, experiments, and tutorials on [**Medium**](https://medium.com/@irenfuji)  
+- Sharing quick tips, resources, and thoughts on [**Bluesky**](https://bsky.app/profile/ai-iren-fuji.bsky.social)  
 
