@@ -158,13 +158,21 @@
     </td>
   </tr>
 
-  <!-- Row 7 -->
-  <tr>
-    <td align="center" width="115">
-      <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji/assets/svg/1f9e0.svg" width="48" height="48" alt="Problem Solving" />
-      <br>Problem Solving
-    </td>
-  </tr>
+ <!-- Row 7 -->
+<tr>
+  <td align="center" width="115">
+    <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji/assets/svg/1f9e0.svg" width="48" height="48" alt="Problem Solving" />
+    <br>Problem Solving
+  </td>
+  <td align="center" width="115">
+    <img src="gpt.png" width="48" height="48" alt="OpenAI API" />
+    <br>OpenAI API
+  </td>
+  <td align="center" width="115">
+    <img src="Three.js.png" width="48" height="48" alt="React Three Fiber" />
+    <br>Three.js - 3D Library
+  </td>
+</tr>
 </table>
 
 </div>
