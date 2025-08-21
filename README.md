@@ -9,7 +9,7 @@
 <div align="center">
 
 <table>
-  <!-- Row 1 – Core Web -->
+  <!-- Row 1 –  Core Web -->
   <tr>
     <td align="center" width="115">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
