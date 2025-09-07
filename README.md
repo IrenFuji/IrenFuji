@@ -179,21 +179,3 @@
 </table>
 
 </div>
-
-
-
-## Portfolio Status  
-```js
-const portfolio = "coming soon...";
-const status = ":loading";
-console.log(`${portfolio} ${status}`);
-// Stay tuned!
-```
-
----
-
-## Sharing & Learning  
-
-- Writing about my learning journey, experiments, and tutorials on [**Medium**](https://medium.com/@irenfuji)  
-- Sharing quick tips, resources, and thoughts on [**Bluesky**](https://bsky.app/profile/ai-iren-fuji.bsky.social)  
-
