@@ -1,6 +1,6 @@
 ![Header](https://raw.githubusercontent.com/IrenFuji/git-bio/main/bio.png)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=38B2AC&lines=Software+Developer;AI+Integration;Problem+Solver;Product-Minded+Developer;UX/UI+Designer;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=38B2AC&lines=Software+Developer;AI+Integration;Problem+Solver;Product-Minded+Developer;)](https://git.io/typing-svg)
  
 ---
 
